@@ -6,6 +6,7 @@ package Model;
  * @since 01.25.2024
  */
 
+// Cube could extend the class Structure!
 public abstract class Cube {
 
     /**
