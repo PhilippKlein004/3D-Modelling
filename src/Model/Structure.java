@@ -16,8 +16,6 @@ public class Structure {
     // List of all the available structures
     public static ArrayList<Structure> structures = new ArrayList<>();
 
-
-    // Private object attributes
     private final ArrayList<Node> nodes;
     private final ArrayList<Node[]> relations;
 
