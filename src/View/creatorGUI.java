@@ -344,7 +344,7 @@ public class creatorGUI extends JFrame {
         this.setTitle("3D Modelling");
         this.setLocationRelativeTo(null);
         this.setResizable(false);
-        this.setSize(1200, 650);
+        this.setSize(1220, 660);
         this.setVisible(true);
         this.setLayout(null);
 
